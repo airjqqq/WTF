@@ -1,0 +1,3587 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 156,
+		["interrupts"] = 0,
+		["damage"] = 1663337,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "WARRIOR",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Taunt"] = {
+						["name"] = "Taunt",
+						["active"] = 0,
+						["id"] = 355,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 12,
+					},
+					["Charge"] = {
+						["name"] = "Charge",
+						["active"] = 0,
+						["id"] = 105771,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 3,
+					},
+					["Rend"] = {
+						["name"] = "Rend",
+						["active"] = 3,
+						["id"] = 772,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 66,
+					},
+					["Colossus Smash"] = {
+						["name"] = "Colossus Smash",
+						["active"] = 0,
+						["id"] = 208086,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 32,
+					},
+					["Surge of Victory"] = {
+						["name"] = "Surge of Victory",
+						["active"] = 2,
+						["id"] = 182062,
+						["auratype"] = "BUFF",
+						["uptime"] = 73,
+					},
+					["Mortal Wounds"] = {
+						["name"] = "Mortal Wounds",
+						["active"] = 4,
+						["id"] = 115804,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 134,
+					},
+					["Vicious Strike"] = {
+						["name"] = "Vicious Strike",
+						["active"] = 0,
+						["id"] = 165638,
+						["auratype"] = "BUFF",
+						["uptime"] = 14,
+					},
+					["Bladestorm"] = {
+						["name"] = "Bladestorm",
+						["active"] = 1,
+						["id"] = 227847,
+						["auratype"] = "BUFF",
+						["uptime"] = 22,
+					},
+					["Overpower!"] = {
+						["name"] = "Overpower!",
+						["active"] = 0,
+						["id"] = 60503,
+						["auratype"] = "BUFF",
+						["uptime"] = 115,
+					},
+					["Tactician"] = {
+						["name"] = "Tactician",
+						["active"] = 0,
+						["id"] = 199854,
+						["auratype"] = "BUFF",
+						["uptime"] = 9,
+					},
+				},
+				["role"] = "NONE",
+				["time"] = 132,
+				["interrupts"] = 0,
+				["power"] = {
+					{
+						["amount"] = 80,
+						["spells"] = {
+							[100] = 80,
+						},
+					}, -- [1]
+				},
+				["damage"] = 1663337,
+				["damagespells"] = {
+					["Mortal Strike"] = {
+						["min"] = 17990,
+						["critical"] = 3,
+						["hit"] = 19,
+						["totalhits"] = 22,
+						["id"] = 12294,
+						["max"] = 40666,
+						["damage"] = 586399,
+					},
+					["Charge"] = {
+						["id"] = 105771,
+						["totalhits"] = 2,
+						["IMMUNE"] = 2,
+						["max"] = 0,
+						["damage"] = 0,
+					},
+					["Rend"] = {
+						["min"] = 7153,
+						["critical"] = 2,
+						["hit"] = 11,
+						["totalhits"] = 13,
+						["id"] = 772,
+						["max"] = 28675,
+						["damage"] = 161617,
+					},
+					["Whirlwind"] = {
+						["min"] = 2952,
+						["critical"] = 2,
+						["hit"] = 6,
+						["totalhits"] = 8,
+						["id"] = 199658,
+						["max"] = 8674,
+						["damage"] = 43916,
+					},
+					["Slam"] = {
+						["min"] = 14235,
+						["critical"] = 2,
+						["hit"] = 4,
+						["totalhits"] = 6,
+						["id"] = 1464,
+						["max"] = 43642,
+						["damage"] = 136300,
+					},
+					["Overpower"] = {
+						["min"] = 23669,
+						["critical"] = 5,
+						["hit"] = 1,
+						["totalhits"] = 6,
+						["id"] = 7384,
+						["max"] = 87472,
+						["damage"] = 314369,
+					},
+					["Colossus Smash"] = {
+						["min"] = 17466,
+						["critical"] = 1,
+						["hit"] = 3,
+						["totalhits"] = 4,
+						["id"] = 167105,
+						["max"] = 34291,
+						["damage"] = 93630,
+					},
+					["Attack"] = {
+						["min"] = 4484,
+						["critical"] = 10,
+						["hit"] = 22,
+						["totalhits"] = 32,
+						["id"] = 6603,
+						["max"] = 24220,
+						["damage"] = 327106,
+					},
+				},
+				["maxhp"] = 364260,
+				["damagetaken"] = 0,
+				["deathlog"] = {
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252905.501,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [1]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252907.528,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [2]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252908.541,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [3]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252910.572,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [4]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252911.553,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [5]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252913.519,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [6]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252915.536,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [7]
+					{
+						["absorb"] = 0,
+						["hp"] = 364260,
+						["amount"] = 0,
+						["ts"] = 1469252917.564,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [8]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252616.048,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [9]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252618.124,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [10]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252707.914,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [11]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252879.302,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [12]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252881.298,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [13]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252901.455,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [14]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469252903.431,
+						["spellid"] = 222944,
+						["srcname"] = "天使之傷",
+					}, -- [15]
+					["pos"] = 9,
+				},
+				["id"] = "Player-707-03FDE469",
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+				},
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["name"] = "Airrior",
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["雨后雲初霁"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 37122,
+						["hits"] = 2,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 9192,
+						["hits"] = 8,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 37122,
+						["hits"] = 2,
+					},
+				},
+			},
+			["娜娜韩妆代购"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Echo of Light"] = {
+						["min"] = 2854,
+						["crits"] = 0,
+						["max"] = 2855,
+						["healing"] = 5709,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 5709,
+				["hdonespell"] = {
+				},
+			},
+			["德玛系呀"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 11482,
+						["hits"] = 15,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["迦陀垛"] = {
+				["players"] = {
+				},
+				["hdone"] = 12960,
+				["htakenspell"] = {
+					["Unholy Strength"] = {
+						["min"] = 12960,
+						["crits"] = 0,
+						["max"] = 12960,
+						["healing"] = 12960,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 12960,
+				["hdonespell"] = {
+					["Unholy Strength"] = {
+						["min"] = 12960,
+						["crits"] = 0,
+						["max"] = 12960,
+						["healing"] = 12960,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["路霸来了"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 10322,
+						["hits"] = 10,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["瓦里安小三"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 6516,
+						["hits"] = 20,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 5594,
+						["hits"] = 25,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 6516,
+						["hits"] = 20,
+					},
+				},
+			},
+			["赤脚洋娃娃-托尔巴拉德"] = {
+				["players"] = {
+				},
+				["hdone"] = 5709,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Echo of Light"] = {
+						["min"] = 2854,
+						["crits"] = 0,
+						["max"] = 2855,
+						["healing"] = 5709,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+			["有時孤独"] = {
+				["players"] = {
+				},
+				["hdone"] = 11234,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 11234,
+						["crits"] = 0,
+						["max"] = 11234,
+						["healing"] = 11234,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["髂前上棘"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 86559,
+						["hits"] = 26,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 10088,
+						["hits"] = 23,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 86559,
+						["hits"] = 26,
+					},
+				},
+			},
+			["艾希恩影刃"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Gift of the Naaru"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 66946,
+						["hits"] = 5,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 7305,
+						["hits"] = 9,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Gift of the Naaru"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 66946,
+						["hits"] = 5,
+					},
+				},
+			},
+			["霸氣丶丁字褲"] = {
+				["players"] = {
+				},
+				["hdone"] = 21856,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 11234,
+						["crits"] = 0,
+						["max"] = 11234,
+						["healing"] = 11234,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+					["Unholy Strength"] = {
+						["min"] = 21856,
+						["crits"] = 0,
+						["max"] = 21856,
+						["healing"] = 21856,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 33090,
+				["hdonespell"] = {
+					["Unholy Strength"] = {
+						["min"] = 21856,
+						["crits"] = 0,
+						["max"] = 21856,
+						["healing"] = 21856,
+						["overhealing"] = 0,
+						["hits"] = 1,
+					},
+				},
+			},
+			["辣椒咖喱"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 18983,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 18983,
+						["hits"] = 1,
+					},
+				},
+			},
+			["时雨与少女"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Power Word: Radiance"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 36075,
+						["hits"] = 1,
+					},
+					["Atonement"] = {
+						["min"] = 0,
+						["crits"] = 11,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 151055,
+						["hits"] = 32,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 9577,
+						["hits"] = 46,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["血粼小琪"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 14682,
+						["hits"] = 23,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["耶克蕊特"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Power Word: Radiance"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 54112,
+						["hits"] = 2,
+					},
+					["Atonement"] = {
+						["min"] = 0,
+						["crits"] = 13,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 101075,
+						["hits"] = 36,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["咏春叶問"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Celestial Fortune"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 17992,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Celestial Fortune"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 17992,
+						["hits"] = 1,
+					},
+				},
+			},
+			["水叮咚丶"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Renew"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 8297,
+						["hits"] = 2,
+					},
+					["Echo of Light"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 27786,
+						["hits"] = 2,
+					},
+					["Flash Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 107464,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Renew"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 8297,
+						["hits"] = 2,
+					},
+					["Echo of Light"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 27786,
+						["hits"] = 2,
+					},
+					["Flash Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 107464,
+						["hits"] = 3,
+					},
+				},
+			},
+			["Dungeoneer's Training Dummy"] = {
+				["players"] = {
+					["Airrior"] = {
+						["taken"] = 1506018,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1506018,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Training Dummy"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 1532506,
+						["crits"] = 0,
+						["max"] = 1532506,
+						["healing"] = 242135948,
+						["overhealing"] = 0,
+						["hits"] = 158,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 242135948,
+				["hdonespell"] = {
+				},
+			},
+			["Stormshield Officer"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Atonement"] = {
+						["min"] = 0,
+						["crits"] = 10,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 91532,
+						["hits"] = 17,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["天使之傷"] = {
+				["players"] = {
+				},
+				["hdone"] = 242135948,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 1532506,
+						["healing"] = 242135948,
+						["overhealing"] = 149695,
+						["hits"] = 371,
+					},
+				},
+			},
+			["Hyperionx"] = {
+				["players"] = {
+				},
+				["hdone"] = 27846,
+				["htakenspell"] = {
+					["Shadow Dance"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 13923,
+						["healing"] = 27846,
+						["overhealing"] = 69612,
+						["hits"] = 7,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 12360,
+						["hits"] = 9,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 27846,
+				["hdonespell"] = {
+					["Shadow Dance"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 13923,
+						["healing"] = 27846,
+						["overhealing"] = 69612,
+						["hits"] = 7,
+					},
+				},
+			},
+			["箭倾天下-罗宁"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 51526,
+						["hits"] = 20,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["丿起名这么难"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Power Word: Radiance"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 18037,
+						["hits"] = 1,
+					},
+					["Atonement"] = {
+						["min"] = 0,
+						["crits"] = 6,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 108590,
+						["hits"] = 27,
+					},
+					["Plea"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 32469,
+						["hits"] = 1,
+					},
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 7567,
+						["hits"] = 25,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Power Word: Radiance"] = {
+						["min"] = 0,
+						["crits"] = 2,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 108224,
+						["hits"] = 4,
+					},
+					["Shadow Mend"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 54113,
+						["hits"] = 1,
+					},
+					["Atonement"] = {
+						["min"] = 0,
+						["crits"] = 74,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 789238,
+						["hits"] = 194,
+					},
+					["Plea"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 32469,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Raider's Training Dummy"] = {
+				["players"] = {
+					["Airrior"] = {
+						["taken"] = 157319,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "WARRIOR",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 157319,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["Stormshield Guard"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Atonement"] = {
+						["min"] = 0,
+						["crits"] = 34,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 336986,
+						["hits"] = 82,
+					},
+					["Shadow Mend"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 54113,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 1663337,
+		["healing"] = 0,
+		["power"] = {
+			80, -- [1]
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1469252548,
+		["damagetaken"] = 0,
+		["mobhdone"] = 242215553,
+		["last_action"] = 1469252548,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 17,
+			["interrupts"] = 0,
+			["endtime"] = 1469253078,
+			["damage"] = 273794,
+			["players"] = {
+				{
+					["last"] = 1469253076,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Dungeoneer's Training Dummy"] = 273794,
+					},
+					["auras"] = {
+						["Rend"] = {
+							["name"] = "Rend",
+							["active"] = 1,
+							["id"] = 772,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 11,
+						},
+						["Mortal Wounds"] = {
+							["name"] = "Mortal Wounds",
+							["active"] = 1,
+							["id"] = 115804,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 15,
+						},
+						["Colossus Smash"] = {
+							["name"] = "Colossus Smash",
+							["active"] = 0,
+							["id"] = 208086,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+						["Surge of Victory"] = {
+							["name"] = "Surge of Victory",
+							["active"] = 1,
+							["id"] = 182062,
+							["auratype"] = "BUFF",
+							["uptime"] = 15,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 14,
+					["interrupts"] = 0,
+					["damage"] = 273794,
+					["damagespells"] = {
+						["Mortal Strike"] = {
+							["min"] = 19968,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 12294,
+							["max"] = 37024,
+							["damage"] = 80186,
+						},
+						["Rend"] = {
+							["min"] = 8850,
+							["hit"] = 3,
+							["totalhits"] = 3,
+							["id"] = 772,
+							["max"] = 14338,
+							["damage"] = 37526,
+						},
+						["Overpower"] = {
+							["min"] = 87472,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 7384,
+							["max"] = 87472,
+							["damage"] = 87472,
+						},
+						["Colossus Smash"] = {
+							["min"] = 21039,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 167105,
+							["max"] = 21039,
+							["damage"] = 21039,
+						},
+						["Attack"] = {
+							["min"] = 5303,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 6603,
+							["max"] = 24220,
+							["damage"] = 47571,
+						},
+					},
+					["power"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469253062,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["迦陀垛"] = {
+					["players"] = {
+					},
+					["hdone"] = 12960,
+					["htakenspell"] = {
+						["Unholy Strength"] = {
+							["min"] = 12960,
+							["crits"] = 0,
+							["max"] = 12960,
+							["healing"] = 12960,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 12960,
+					["hdonespell"] = {
+						["Unholy Strength"] = {
+							["min"] = 12960,
+							["crits"] = 0,
+							["max"] = 12960,
+							["healing"] = 12960,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["辣椒咖喱"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 18983,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 18983,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 273794,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 273794,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 273794,
+			["starttime"] = 1469253061,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy (5)",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 12960,
+			["last_action"] = 1469253061,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 26,
+			["interrupts"] = 0,
+			["endtime"] = 1469253007,
+			["damage"] = 368512,
+			["players"] = {
+				{
+					["last"] = 1469253004,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Dungeoneer's Training Dummy"] = 368512,
+					},
+					["auras"] = {
+						["Taunt"] = {
+							["name"] = "Taunt",
+							["active"] = 0,
+							["id"] = 355,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+						["Charge"] = {
+							["name"] = "Charge",
+							["active"] = 0,
+							["id"] = 105771,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 1,
+						},
+						["Rend"] = {
+							["name"] = "Rend",
+							["active"] = 1,
+							["id"] = 772,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 11,
+						},
+						["Colossus Smash"] = {
+							["name"] = "Colossus Smash",
+							["active"] = 0,
+							["id"] = 208086,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+						["Surge of Victory"] = {
+							["name"] = "Surge of Victory",
+							["active"] = 1,
+							["id"] = 182062,
+							["auratype"] = "BUFF",
+							["uptime"] = 16,
+						},
+						["Mortal Wounds"] = {
+							["name"] = "Mortal Wounds",
+							["active"] = 0,
+							["id"] = 115804,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 9,
+						},
+						["Tactician"] = {
+							["name"] = "Tactician",
+							["active"] = 0,
+							["id"] = 199854,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+						["Bladestorm"] = {
+							["name"] = "Bladestorm",
+							["active"] = 1,
+							["id"] = 227847,
+							["auratype"] = "BUFF",
+							["uptime"] = 5,
+						},
+						["Overpower!"] = {
+							["name"] = "Overpower!",
+							["active"] = 0,
+							["id"] = 60503,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Vicious Strike"] = {
+							["name"] = "Vicious Strike",
+							["active"] = 0,
+							["id"] = 165638,
+							["auratype"] = "BUFF",
+							["uptime"] = 1,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 23,
+					["interrupts"] = 0,
+					["damage"] = 368512,
+					["damagespells"] = {
+						["Mortal Strike"] = {
+							["min"] = 18778,
+							["critical"] = 1,
+							["hit"] = 4,
+							["totalhits"] = 5,
+							["id"] = 12294,
+							["max"] = 40666,
+							["damage"] = 135051,
+						},
+						["Whirlwind"] = {
+							["min"] = 7037,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 199658,
+							["max"] = 7037,
+							["damage"] = 7037,
+						},
+						["Rend"] = {
+							["min"] = 8850,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 772,
+							["max"] = 28675,
+							["damage"] = 51863,
+						},
+						["Slam"] = {
+							["min"] = 14483,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 1464,
+							["max"] = 25420,
+							["damage"] = 39903,
+						},
+						["Overpower"] = {
+							["min"] = 45568,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 7384,
+							["max"] = 45568,
+							["damage"] = 45568,
+						},
+						["Colossus Smash"] = {
+							["min"] = 20834,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 167105,
+							["max"] = 20834,
+							["damage"] = 20834,
+						},
+						["Attack"] = {
+							["min"] = 7106,
+							["critical"] = 4,
+							["hit"] = 1,
+							["totalhits"] = 5,
+							["id"] = 6603,
+							["max"] = 23918,
+							["damage"] = 68256,
+						},
+					},
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[100] = 20,
+							},
+						}, -- [1]
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252981,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 368512,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 368512,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 368512,
+			["starttime"] = 1469252981,
+			["healing"] = 0,
+			["power"] = {
+				20, -- [1]
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy (4)",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1469252981,
+			["mobdone"] = 0,
+		}, -- [2]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 53,
+			["interrupts"] = 0,
+			["endtime"] = 1469252952,
+			["damage"] = 786760,
+			["players"] = {
+				{
+					["last"] = 1469252949,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 11169,
+						["Dungeoneer's Training Dummy"] = 775591,
+					},
+					["auras"] = {
+						["Taunt"] = {
+							["name"] = "Taunt",
+							["active"] = 0,
+							["id"] = 355,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+						["Charge"] = {
+							["name"] = "Charge",
+							["active"] = 0,
+							["id"] = 105771,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 2,
+						},
+						["Rend"] = {
+							["name"] = "Rend",
+							["active"] = 1,
+							["id"] = 772,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 23,
+						},
+						["Colossus Smash"] = {
+							["name"] = "Colossus Smash",
+							["active"] = 0,
+							["id"] = 208086,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 16,
+						},
+						["Surge of Victory"] = {
+							["name"] = "Surge of Victory",
+							["active"] = 0,
+							["id"] = 182062,
+							["auratype"] = "BUFF",
+							["uptime"] = 20,
+						},
+						["Mortal Wounds"] = {
+							["name"] = "Mortal Wounds",
+							["active"] = 1,
+							["id"] = 115804,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 50,
+						},
+						["Vicious Strike"] = {
+							["name"] = "Vicious Strike",
+							["active"] = 0,
+							["id"] = 165638,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Overpower!"] = {
+							["name"] = "Overpower!",
+							["active"] = 0,
+							["id"] = 60503,
+							["auratype"] = "BUFF",
+							["uptime"] = 16,
+						},
+						["Tactician"] = {
+							["name"] = "Tactician",
+							["active"] = 0,
+							["id"] = 199854,
+							["auratype"] = "BUFF",
+							["uptime"] = 6,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 50,
+					["interrupts"] = 0,
+					["damage"] = 786760,
+					["damagespells"] = {
+						["Mortal Strike"] = {
+							["min"] = 18662,
+							["critical"] = 1,
+							["hit"] = 9,
+							["totalhits"] = 10,
+							["id"] = 12294,
+							["max"] = 38646,
+							["damage"] = 275370,
+						},
+						["Rend"] = {
+							["min"] = 7153,
+							["critical"] = 1,
+							["hit"] = 6,
+							["totalhits"] = 7,
+							["id"] = 772,
+							["max"] = 23177,
+							["damage"] = 72228,
+						},
+						["Whirlwind"] = {
+							["min"] = 2952,
+							["critical"] = 2,
+							["hit"] = 5,
+							["totalhits"] = 7,
+							["id"] = 199658,
+							["max"] = 8674,
+							["damage"] = 36879,
+						},
+						["Slam"] = {
+							["min"] = 18387,
+							["critical"] = 1,
+							["hit"] = 2,
+							["totalhits"] = 3,
+							["id"] = 1464,
+							["max"] = 43642,
+							["damage"] = 82162,
+						},
+						["Overpower"] = {
+							["min"] = 23669,
+							["critical"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 3,
+							["id"] = 7384,
+							["max"] = 70463,
+							["damage"] = 138013,
+						},
+						["Colossus Smash"] = {
+							["min"] = 17466,
+							["critical"] = 1,
+							["hit"] = 1,
+							["totalhits"] = 2,
+							["id"] = 167105,
+							["max"] = 34291,
+							["damage"] = 51757,
+						},
+						["Attack"] = {
+							["min"] = 6021,
+							["critical"] = 2,
+							["hit"] = 12,
+							["totalhits"] = 14,
+							["id"] = 6603,
+							["max"] = 15361,
+							["damage"] = 130351,
+						},
+					},
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[100] = 20,
+							},
+						}, -- [1]
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252899,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["丿起名这么难"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Power Word: Radiance"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 18037,
+							["hits"] = 1,
+						},
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 2,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 62025,
+							["hits"] = 15,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 3437,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Power Word: Radiance"] = {
+							["min"] = 0,
+							["crits"] = 2,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 108224,
+							["hits"] = 4,
+						},
+						["Shadow Mend"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 54113,
+							["hits"] = 1,
+						},
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 54,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 577425,
+							["hits"] = 151,
+						},
+					},
+				},
+				["时雨与少女"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Power Word: Radiance"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 36075,
+							["hits"] = 1,
+						},
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 7,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 109607,
+							["hits"] = 24,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2365,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 775591,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 775591,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["箭倾天下-罗宁"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 27227,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["天使之傷"] = {
+					["players"] = {
+					},
+					["hdone"] = 58235228,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 58235228,
+							["overhealing"] = 42877,
+							["hits"] = 92,
+						},
+					},
+				},
+				["Training Dummy"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 1532506,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 58235228,
+							["overhealing"] = 0,
+							["hits"] = 38,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 58235228,
+					["hdonespell"] = {
+					},
+				},
+				["Stormshield Officer"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 6,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 50628,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["髂前上棘"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 86559,
+							["hits"] = 26,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 7115,
+							["hits"] = 16,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 86559,
+							["hits"] = 26,
+						},
+					},
+				},
+				["艾希恩影刃"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Gift of the Naaru"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 66946,
+							["hits"] = 5,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 40,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Gift of the Naaru"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 66946,
+							["hits"] = 5,
+						},
+					},
+				},
+				["Hyperionx"] = {
+					["players"] = {
+					},
+					["hdone"] = 27846,
+					["htakenspell"] = {
+						["Shadow Dance"] = {
+							["min"] = 13923,
+							["crits"] = 0,
+							["max"] = 13923,
+							["healing"] = 27846,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2693,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 27846,
+					["hdonespell"] = {
+						["Shadow Dance"] = {
+							["min"] = 13923,
+							["crits"] = 0,
+							["max"] = 13923,
+							["healing"] = 27846,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+				},
+				["耶克蕊特"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Power Word: Radiance"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 54112,
+							["hits"] = 2,
+						},
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 13,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 101075,
+							["hits"] = 36,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 11169,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 11169,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Stormshield Guard"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 26,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 254090,
+							["hits"] = 66,
+						},
+						["Shadow Mend"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 54113,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 786760,
+			["starttime"] = 1469252899,
+			["healing"] = 0,
+			["power"] = {
+				20, -- [1]
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy (3)",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 58263074,
+			["last_action"] = 1469252899,
+			["mobdone"] = 0,
+		}, -- [3]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 9,
+			["interrupts"] = 0,
+			["endtime"] = 1469252887,
+			["damage"] = 88121,
+			["players"] = {
+				{
+					["last"] = 1469252884,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Dungeoneer's Training Dummy"] = 88121,
+					},
+					["auras"] = {
+						["Mortal Wounds"] = {
+							["name"] = "Mortal Wounds",
+							["active"] = 1,
+							["id"] = 115804,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 8,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 6,
+					["interrupts"] = 0,
+					["damage"] = 88121,
+					["damagespells"] = {
+						["Mortal Strike"] = {
+							["min"] = 38569,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 12294,
+							["max"] = 38569,
+							["damage"] = 38569,
+						},
+						["Overpower"] = {
+							["min"] = 43316,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 7384,
+							["max"] = 43316,
+							["damage"] = 43316,
+						},
+						["Attack"] = {
+							["min"] = 6236,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 6236,
+							["damage"] = 6236,
+						},
+					},
+					["power"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252878,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["丿起名这么难"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 4,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 41448,
+							["hits"] = 8,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2675,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 20,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 206696,
+							["hits"] = 39,
+						},
+					},
+				},
+				["时雨与少女"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 4,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 41448,
+							["hits"] = 8,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1184,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 88121,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 88121,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["箭倾天下-罗宁"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 24299,
+							["hits"] = 8,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Training Dummy"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 1532506,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 27585108,
+							["overhealing"] = 0,
+							["hits"] = 18,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 27585108,
+					["hdonespell"] = {
+					},
+				},
+				["Stormshield Officer"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 4,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 40904,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["天使之傷"] = {
+					["players"] = {
+					},
+					["hdone"] = 27585108,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 27585108,
+							["overhealing"] = 48063,
+							["hits"] = 58,
+						},
+					},
+				},
+				["艾希恩影刃"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 7265,
+							["hits"] = 8,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["咏春叶問"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Celestial Fortune"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 17992,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Celestial Fortune"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 17992,
+							["hits"] = 1,
+						},
+					},
+				},
+				["髂前上棘"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2973,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Hyperionx"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Shadow Dance"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 69612,
+							["hits"] = 5,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 9667,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Shadow Dance"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 69612,
+							["hits"] = 5,
+						},
+					},
+				},
+				["Stormshield Guard"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 8,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 82896,
+							["hits"] = 16,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 88121,
+			["starttime"] = 1469252878,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy (2)",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 27585108,
+			["last_action"] = 1469252878,
+			["mobdone"] = 0,
+		}, -- [4]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1469252714,
+			["damage"] = 6071,
+			["players"] = {
+				{
+					["last"] = 1469252713,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 6071,
+					},
+					["auras"] = {
+						["Overpower!"] = {
+							["name"] = "Overpower!",
+							["active"] = 1,
+							["id"] = 60503,
+							["auratype"] = "BUFF",
+							["uptime"] = 8,
+						},
+						["Vicious Strike"] = {
+							["name"] = "Vicious Strike",
+							["active"] = 0,
+							["id"] = 165638,
+							["auratype"] = "BUFF",
+							["uptime"] = 8,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 8,
+					["interrupts"] = 0,
+					["damage"] = 6071,
+					["damagespells"] = {
+						["Attack"] = {
+							["min"] = 6071,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 6071,
+							["damage"] = 6071,
+						},
+						["Charge"] = {
+							["id"] = 105771,
+							["totalhits"] = 1,
+							["IMMUNE"] = 1,
+							["max"] = 0,
+							["damage"] = 0,
+						},
+					},
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[100] = 20,
+							},
+						}, -- [1]
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252705,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Training Dummy"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 1532506,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 30650120,
+							["overhealing"] = 0,
+							["hits"] = 20,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 30650120,
+					["hdonespell"] = {
+					},
+				},
+				["雨后雲初霁"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 37122,
+							["hits"] = 2,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 9192,
+							["hits"] = 8,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 37122,
+							["hits"] = 2,
+						},
+					},
+				},
+				["天使之傷"] = {
+					["players"] = {
+					},
+					["hdone"] = 30650120,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 30650120,
+							["overhealing"] = 20698,
+							["hits"] = 44,
+						},
+					},
+				},
+				["路霸来了"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 10322,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 6071,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 6071,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["时雨与少女"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1184,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 6071,
+			["starttime"] = 1469252704,
+			["healing"] = 0,
+			["power"] = {
+				20, -- [1]
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Raider's Training Dummy (3)",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 30650120,
+			["last_action"] = 1469252704,
+			["mobdone"] = 0,
+		}, -- [5]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 10,
+			["interrupts"] = 0,
+			["endtime"] = 1469252623,
+			["damage"] = 24577,
+			["players"] = {
+				{
+					["last"] = 1469252618,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 24577,
+					},
+					["auras"] = {
+						["Taunt"] = {
+							["name"] = "Taunt",
+							["active"] = 0,
+							["id"] = 355,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+						["Mortal Wounds"] = {
+							["name"] = "Mortal Wounds",
+							["active"] = 1,
+							["id"] = 115804,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 6,
+						},
+						["Overpower!"] = {
+							["name"] = "Overpower!",
+							["active"] = 1,
+							["id"] = 60503,
+							["auratype"] = "BUFF",
+							["uptime"] = 9,
+						},
+						["Vicious Strike"] = {
+							["name"] = "Vicious Strike",
+							["active"] = 0,
+							["id"] = 165638,
+							["auratype"] = "BUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 5,
+					["interrupts"] = 0,
+					["damage"] = 24577,
+					["damagespells"] = {
+						["Mortal Strike"] = {
+							["min"] = 20093,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 12294,
+							["max"] = 20093,
+							["damage"] = 20093,
+						},
+						["Charge"] = {
+							["id"] = 105771,
+							["totalhits"] = 1,
+							["IMMUNE"] = 1,
+							["max"] = 0,
+							["damage"] = 0,
+						},
+						["Attack"] = {
+							["min"] = 4484,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 6603,
+							["max"] = 4484,
+							["damage"] = 4484,
+						},
+					},
+					["power"] = {
+						{
+							["amount"] = 20,
+							["spells"] = {
+								[100] = 20,
+							},
+						}, -- [1]
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252613,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["丿起名这么难"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 5117,
+							["hits"] = 4,
+						},
+						["Plea"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 32469,
+							["hits"] = 1,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1455,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Plea"] = {
+							["min"] = 0,
+							["crits"] = 1,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 32469,
+							["hits"] = 1,
+						},
+						["Atonement"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 5117,
+							["hits"] = 4,
+						},
+					},
+				},
+				["时雨与少女"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1182,
+							["hits"] = 5,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["德玛系呀"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 4873,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["瓦里安小三"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 5361,
+							["hits"] = 8,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 4691,
+							["hits"] = 10,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 5361,
+							["hits"] = 8,
+						},
+					},
+				},
+				["赤脚洋娃娃-托尔巴拉德"] = {
+					["players"] = {
+					},
+					["hdone"] = 5709,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Echo of Light"] = {
+							["min"] = 2854,
+							["crits"] = 0,
+							["max"] = 2855,
+							["healing"] = 5709,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+				},
+				["天使之傷"] = {
+					["players"] = {
+					},
+					["hdone"] = 30650120,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 30650120,
+							["overhealing"] = 12201,
+							["hits"] = 50,
+						},
+					},
+				},
+				["娜娜韩妆代购"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Echo of Light"] = {
+							["min"] = 2854,
+							["crits"] = 0,
+							["max"] = 2855,
+							["healing"] = 5709,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 5709,
+					["hdonespell"] = {
+					},
+				},
+				["霸氣丶丁字褲"] = {
+					["players"] = {
+					},
+					["hdone"] = 21856,
+					["htakenspell"] = {
+						["Unholy Strength"] = {
+							["min"] = 21856,
+							["crits"] = 0,
+							["max"] = 21856,
+							["healing"] = 21856,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 21856,
+					["hdonespell"] = {
+						["Unholy Strength"] = {
+							["min"] = 21856,
+							["crits"] = 0,
+							["max"] = 21856,
+							["healing"] = 21856,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 24577,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 24577,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Training Dummy"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 1532506,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 30650120,
+							["overhealing"] = 0,
+							["hits"] = 20,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 30650120,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 24577,
+			["starttime"] = 1469252613,
+			["healing"] = 0,
+			["power"] = {
+				20, -- [1]
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Raider's Training Dummy (2)",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 30677685,
+			["last_action"] = 1469252613,
+			["mobdone"] = 0,
+		}, -- [6]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 25,
+			["interrupts"] = 0,
+			["endtime"] = 1469252599,
+			["damage"] = 115502,
+			["players"] = {
+				{
+					["last"] = 1469252598,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 115502,
+					},
+					["auras"] = {
+						["Surge of Victory"] = {
+							["name"] = "Surge of Victory",
+							["active"] = 0,
+							["id"] = 182062,
+							["auratype"] = "BUFF",
+							["uptime"] = 20,
+						},
+						["Mortal Wounds"] = {
+							["name"] = "Mortal Wounds",
+							["active"] = 0,
+							["id"] = 115804,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 13,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 23,
+					["interrupts"] = 0,
+					["damage"] = 115502,
+					["damagespells"] = {
+						["Mortal Strike"] = {
+							["min"] = 17990,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 12294,
+							["max"] = 19140,
+							["damage"] = 37130,
+						},
+						["Slam"] = {
+							["min"] = 14235,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 1464,
+							["max"] = 14235,
+							["damage"] = 14235,
+						},
+						["Attack"] = {
+							["min"] = 7410,
+							["critical"] = 3,
+							["hit"] = 3,
+							["totalhits"] = 6,
+							["id"] = 6603,
+							["max"] = 14678,
+							["damage"] = 64137,
+						},
+					},
+					["power"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252575,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Training Dummy"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 1532506,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 76625300,
+							["overhealing"] = 0,
+							["hits"] = 50,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 76625300,
+					["hdonespell"] = {
+					},
+				},
+				["天使之傷"] = {
+					["players"] = {
+					},
+					["hdone"] = 76625300,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 76625300,
+							["overhealing"] = 21506,
+							["hits"] = 108,
+						},
+					},
+				},
+				["血粼小琪"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 11072,
+							["hits"] = 19,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["德玛系呀"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 6609,
+							["hits"] = 9,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["时雨与少女"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 2922,
+							["hits"] = 15,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Airrior"] = {
+							["taken"] = 115502,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "WARRIOR",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 115502,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["瓦里安小三"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1155,
+							["hits"] = 12,
+						},
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 903,
+							["hits"] = 15,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1155,
+							["hits"] = 12,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 115502,
+			["starttime"] = 1469252574,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Raider's Training Dummy",
+			["mobname"] = "Raider's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 76625300,
+			["last_action"] = 1469252574,
+			["mobdone"] = 0,
+		}, -- [7]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 6,
+			["interrupts"] = 0,
+			["endtime"] = 1469252554,
+			["damage"] = 0,
+			["players"] = {
+				{
+					["last"] = 1469252551,
+					["healingabsorbed"] = 0,
+					["class"] = "WARRIOR",
+					["damaged"] = {
+					},
+					["auras"] = {
+						["Taunt"] = {
+							["name"] = "Taunt",
+							["active"] = 0,
+							["id"] = 355,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 3,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 3,
+					["interrupts"] = 0,
+					["damage"] = 0,
+					["damagespells"] = {
+					},
+					["power"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDE469",
+					["first"] = 1469252548,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airrior",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Training Dummy"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 1532506,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 18390072,
+							["overhealing"] = 0,
+							["hits"] = 12,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 18390072,
+					["hdonespell"] = {
+					},
+				},
+				["有時孤独"] = {
+					["players"] = {
+					},
+					["hdone"] = 11234,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 11234,
+							["crits"] = 0,
+							["max"] = 11234,
+							["healing"] = 11234,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+				},
+				["天使之傷"] = {
+					["players"] = {
+					},
+					["hdone"] = 18390072,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 1532506,
+							["healing"] = 18390072,
+							["overhealing"] = 4350,
+							["hits"] = 19,
+						},
+					},
+				},
+				["血粼小琪"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 3610,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["霸氣丶丁字褲"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 11234,
+							["crits"] = 0,
+							["max"] = 11234,
+							["healing"] = 11234,
+							["overhealing"] = 0,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 11234,
+					["hdonespell"] = {
+					},
+				},
+				["水叮咚丶"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Renew"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 8297,
+							["hits"] = 2,
+						},
+						["Echo of Light"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 27786,
+							["hits"] = 2,
+						},
+						["Flash Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 107464,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Renew"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 8297,
+							["hits"] = 2,
+						},
+						["Echo of Light"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 27786,
+							["hits"] = 2,
+						},
+						["Flash Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 107464,
+							["hits"] = 3,
+						},
+					},
+				},
+				["时雨与少女"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 740,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 0,
+			["starttime"] = 1469252548,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 18401306,
+			["last_action"] = 1469252548,
+			["mobdone"] = 0,
+		}, -- [8]
+	},
+}

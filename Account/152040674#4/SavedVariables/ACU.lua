@@ -1,0 +1,20 @@
+
+AddonCpuUsageDB = {
+	["profileKeys"] = {
+		["Airight - 白银之手"] = "Default",
+		["Aironk - 白银之手"] = "Default",
+		["Airage - 白银之手"] = "Default",
+		["Airaladin - 白银之手"] = "Default",
+		["Airrior - 白银之手"] = "Default",
+		["Airdh - 白银之手"] = "Default",
+		["Airuid - 白银之手"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["first_run"] = true,
+			["Minimap"] = {
+				["minimapPos"] = 194.729516010058,
+			},
+		},
+	},
+}

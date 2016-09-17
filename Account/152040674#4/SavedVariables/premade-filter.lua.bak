@@ -1,0 +1,30 @@
+
+PremadeFilter_Data = {
+	["RecentQueriesOrder"] = {
+		"norm -farm ?tank ?dps", -- [1]
+	},
+	["RecentWordsOrder"] = {
+		"norm", -- [1]
+		"farm", -- [2]
+		"tank", -- [3]
+		"dps", -- [4]
+	},
+	["Settings"] = {
+		["Version"] = "1.1",
+		["UpdateInterval"] = 15,
+		["NewPlayerChatNotifications"] = false,
+		["NewGroupChatNotifications"] = false,
+		["MaxRecentWords"] = 10,
+		["SoundNotifications"] = false,
+	},
+	["RecentWords"] = {
+		["norm"] = true,
+		["dps"] = true,
+		["tank"] = true,
+		["farm"] = true,
+	},
+	["HideTutorial"] = true,
+	["RecentQueries"] = {
+		["norm -farm ?tank ?dps"] = true,
+	},
+}

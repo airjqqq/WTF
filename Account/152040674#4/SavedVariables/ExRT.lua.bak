@@ -1,0 +1,437 @@
+
+VExRT = {
+	["Timers"] = {
+		["specTimes"] = {
+			[62] = 10,
+			[63] = 10,
+			[250] = 10,
+			[251] = 10,
+			[64] = 10,
+			[253] = 10,
+			[65] = 10,
+			[255] = 10,
+			[66] = 10,
+			[257] = 10,
+			[258] = 10,
+			[259] = 10,
+			[260] = 10,
+			[261] = 25,
+			[262] = 16,
+			[263] = 10,
+			[264] = 10,
+			[265] = 22,
+			[266] = 10,
+			[267] = 10,
+			[268] = 10,
+			[269] = 10,
+			[270] = 10,
+			[70] = 10,
+			[102] = 10,
+			[71] = 10,
+			[103] = 10,
+			[72] = 10,
+			[104] = 10,
+			[73] = 10,
+			[252] = 10,
+			[105] = 10,
+			[254] = 10,
+			[256] = 10,
+			[577] = 10,
+			[581] = 10,
+		},
+		["Strata"] = "HIGH",
+	},
+	["ProfileKeys"] = {
+		["Airight-白银之手"] = "default",
+		["Aironk-白银之手"] = "default",
+		["Airrior-白银之手"] = "default",
+		["Airaladin-白银之手"] = "default",
+		["Airuid-白银之手"] = "default",
+		["Airdh-白银之手"] = "default",
+	},
+	["Arrow"] = {
+	},
+	["Encounter"] = {
+		["names"] = {
+			[1790] = "洛克莫拉",
+			[1791] = "乌拉罗格·塑山",
+			[1792] = "纳拉萨斯",
+			[1793] = "地底之王达古尔",
+			[1836] = "大德鲁伊格兰达里斯",
+			[1837] = "橡树之心",
+			[1838] = "德萨隆",
+			[1839] = "萨维斯之影",
+			[1809] = "奥丁",
+			[1810] = "督军帕杰什",
+			[1811] = "积怨夫人",
+			[1812] = "深须国王",
+			[1813] = "瑟芬崔斯克",
+			[1814] = "艾萨拉之怒",
+			[1808] = "神王斯科瓦尔德",
+			[1807] = "芬雷尔",
+			[1806] = "赫娅",
+			[1805] = "海姆达尔",
+		},
+		["list"] = {
+			["Aironk"] = {
+				"^1810^23^1473313496^253^0^5^824.02^放开那个娃", -- [1]
+				"^1810^23^1473313885^157^0^5^824.02^秒睡丶呼", -- [2]
+				"^1810^23^1473314186^224^0^5^824.02^秒睡丶呼", -- [3]
+				"^1810^23^1473314569^161^1^5^823.20^", -- [4]
+				"^1811^23^1473315032^177^1^5^823.53^放开那个娃", -- [5]
+				"^1813^23^1473315639^200^1^5^824.60^放开那个娃", -- [6]
+				"^1812^23^1473316970^199^1^5^826.65^秒睡丶呼", -- [7]
+				"^1814^23^1473317449^145^0^5^826.82^放开那个娃", -- [8]
+				"^1814^23^1473317776^137^0^5^825.47^寒雨晚枫", -- [9]
+				"^1814^23^1473318022^148^0^5^825.42^紫炎妖钰", -- [10]
+				"^1814^23^1473318348^148^0^5^825.47^放开那个娃", -- [11]
+				"^1814^23^1473318598^145^1^5^824.68^", -- [12]
+				"^1805^23^1473320016^111^0^5^825.47^笨笨和尚", -- [13]
+				"^1805^23^1473320193^72^0^5^825.47^笨笨和尚", -- [14]
+				"^1805^23^1473320338^76^0^5^825.47^我准备好拉", -- [15]
+				"^1805^23^1473320520^120^0^5^825.47^笨笨和尚", -- [16]
+				"^1805^23^1473320715^120^0^5^825.47^我准备好拉", -- [17]
+				"^1805^23^1473320962^119^0^5^825.47^斜阳雨落", -- [18]
+				"^1805^23^1473321162^76^0^5^825.47^猪梦梦", -- [19]
+				"^1805^23^1473321341^85^0^5^825.47^我准备好拉", -- [20]
+				"^1805^23^1473321530^121^1^5^825.47^", -- [21]
+				"^1806^23^1473322719^318^0^5^827.60^我准备好拉", -- [22]
+				"^1806^23^1473323249^149^1^5^825.98^", -- [23]
+				"^1807^23^1473324017^62^0^5^826.04^", -- [24]
+				"^1807^23^1473324104^138^0^5^826.04^斜阳雨落", -- [25]
+				"^1807^23^1473324385^112^1^5^824.82^", -- [26]
+				"^1808^23^1473325082^177^1^5^827.82^猪梦梦", -- [27]
+				"^1809^23^1473325407^133^0^5^827.82^", -- [28]
+				"^1809^23^1473325683^165^0^5^828.16^", -- [29]
+				"^1809^23^1473325927^150^0^5^828.16^", -- [30]
+				"^1809^23^1473326190^115^0^5^828.16^", -- [31]
+				"^1809^23^1473326372^168^1^5^828.87^", -- [32]
+				"^1836^23^1473339931^87^1^5^822.91^四二带两王丶", -- [33]
+				"^1837^23^1473340875^81^1^5^825.05^", -- [34]
+				"^1838^23^1473341033^378^1^5^825.63^", -- [35]
+				"^1839^23^1473341827^126^1^5^826.38^四二带两王丶", -- [36]
+				"^1790^23^1473343370^118^1^5^828.69^三利丹丶", -- [37]
+				"^1791^23^1473344165^203^0^5^829.16^里约大冒险", -- [38]
+				"^1791^23^1473344667^176^1^5^825.71^", -- [39]
+				"^1792^23^1473345288^111^1^5^826.55^", -- [40]
+				"^1793^23^1473345938^177^1^5^825.71^四二带两王丶", -- [41]
+			},
+			["Airight"] = {
+			},
+			["Airrior"] = {
+			},
+			["Airuid"] = {
+			},
+			["Airdh"] = {
+			},
+			["Airaladin"] = {
+			},
+		},
+	},
+	["Marks"] = {
+		["list"] = {
+		},
+	},
+	["Coins"] = {
+		["list"] = {
+		},
+	},
+	["ExCD2"] = {
+		["default_userDuration"] = {
+		},
+		["gnGUIDs"] = {
+			["里约大冒险"] = 104,
+			["Demosven"] = 577,
+			["Airight"] = 250,
+			["紫炎妖钰"] = 65,
+			["Airrior"] = 71,
+			["四二带两王丶"] = 71,
+			["寒雨晚枫"] = 253,
+			["笨笨和尚"] = 257,
+			["秒睡丶呼"] = 577,
+			["Airdh"] = 577,
+			["我准备好拉"] = 577,
+			["Airuid"] = 104,
+			["三利丹丶"] = 577,
+			["斜阳雨落"] = 71,
+			["猪梦梦"] = 253,
+			["放开那个娃"] = 263,
+			["Aironk"] = 268,
+			["Airaladin"] = 70,
+		},
+		["NoRaid"] = true,
+		["CDECol"] = {
+		},
+		["default_userCD"] = {
+		},
+		["Save"] = {
+		},
+		["colSet"] = {
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [1]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [2]
+			{
+				["enabled"] = true,
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [3]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [4]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [5]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [6]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [7]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [8]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [9]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [10]
+			{
+				["frameGeneral"] = true,
+				["iconGray"] = true,
+				["textGeneral"] = true,
+				["methodsGeneral"] = true,
+				["blacklistGeneral"] = true,
+				["textureGeneral"] = true,
+				["iconGeneral"] = true,
+				["fontOutline"] = true,
+				["visibilityGeneral"] = true,
+				["fontGeneral"] = true,
+				["textureAnimation"] = true,
+				["fontShadow"] = false,
+			}, -- [11]
+		},
+		["Priority"] = {
+		},
+		["CDE"] = {
+		},
+		["userDB"] = {
+		},
+	},
+	["Attendance"] = {
+		["enabled"] = 2,
+		["ModuleViewed3580"] = true,
+		["data"] = {
+		},
+		["alts"] = {
+		},
+	},
+	["LegendaryRing"] = {
+	},
+	["InspectViewer"] = {
+		["ColorizeLowIlvl685"] = false,
+		["ColorizeNoEnch"] = true,
+		["ColorizeNoGems"] = true,
+		["ColorizeNoTopEnchGems"] = false,
+		["ColorizeLowIlvl"] = true,
+		["ColorizeNoValorUpgrade"] = false,
+	},
+	["InviteTool"] = {
+		["Words"] = "инв inv byd штм 123",
+		["InvByChat"] = true,
+		["RaidDiff"] = 16,
+		["PromoteRank"] = 3,
+		["LootThreshold"] = 2,
+		["MasterLooters"] = "",
+		["LootMethod"] = "group",
+		["PromoteNames"] = "",
+		["OnlyGuild"] = true,
+		["Rank"] = 1,
+	},
+	["Addon"] = {
+		["Version"] = 3765,
+		["PreVersion"] = 3765,
+		["IconMiniMapLeft"] = 78.5443116413307,
+		["Timer"] = 0.1,
+		["IconMiniMapTop"] = 15.1918105829923,
+	},
+	["Bossmods"] = {
+		["Kormrok"] = {
+		},
+		["Mannoroth"] = {
+		},
+		["Kromog"] = {
+		},
+	},
+	["InspectArtifact"] = {
+		["players"] = {
+			["Aironk-白银之手"] = {
+				"14:1:1277-1-1:1292-0-1:1291-0-1:1290-0-1:1293-1-1:1289-0-1:1288-1-1:1287-0-1:1286-3-3:1285-4-4:1284-0-3:1283-3-3:1282-0-3:1281-0-3:1280-0-3:1279-3-3:1278-1-4:1374-0-20:128938", -- [1]
+				1473345941, -- [2]
+			},
+		},
+	},
+	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["BattleRes"] = {
+	},
+	["Note"] = {
+		["BlackNames"] = {
+		},
+		["FontSize"] = 12,
+		["Black"] = {
+			"", -- [1]
+			"", -- [2]
+			"", -- [3]
+		},
+		["AutoLoad"] = {
+		},
+		["Strata"] = "HIGH",
+		["Height"] = 100.000007629395,
+		["Width"] = 200.000076293945,
+	},
+	["Logging"] = {
+		["disableLFR"] = true,
+	},
+	["MarksBar"] = {
+		["pulltimer"] = 10,
+		["Strata"] = "HIGH",
+		["Show"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+		},
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["autoSegments"] = {
+		},
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
+	},
+	["RaidCheck"] = {
+		["FlaskExp"] = 1,
+		["ReadyCheckFrameTimerFade"] = 4,
+	},
+}

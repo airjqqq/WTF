@@ -1,0 +1,3 @@
+VER 3 0100000000000001 " " "INV_SWORD_04"
+/dump GetPlayerFacing("AirjTest",UnitGUID("target"))
+END

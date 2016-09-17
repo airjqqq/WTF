@@ -1,0 +1,8 @@
+Version: 1
+Frame: AirjAutoKey_GUI_anchor
+FrameLevel: 1
+Anchor: BOTTOM
+X: 328
+Y: 123
+W: 270
+H: 20

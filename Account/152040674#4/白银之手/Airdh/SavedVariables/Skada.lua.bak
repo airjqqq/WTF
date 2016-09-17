@@ -1,0 +1,496 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["overloadDamage"] = 0,
+		["totalRTBCasts"] = 0,
+		["spellName"] = {
+		},
+		["healingabsorbed"] = 0,
+		["nonOverloadDamage"] = 0,
+		["power"] = {
+			[17] = 108,
+		},
+		["critHealing"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 6,
+		["interrupts"] = 0,
+		["multistrikes"] = 0,
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["damage"] = 87464,
+		["players"] = {
+			{
+				["totalOverloads"] = 0,
+				["healingabsorbed"] = 0,
+				["sam_breakdown"] = {
+					["Physical Hit"] = 1,
+					["Dodge"] = 1,
+				},
+				["damaged"] = {
+				},
+				["auras"] = {
+				},
+				["role"] = "NONE",
+				["interrupts"] = 0,
+				["totalHealing"] = 0,
+				["critHealingSpells"] = {
+				},
+				["effectiveHealing"] = 0,
+				["damagetaken"] = 4226,
+				["critDamaged"] = {
+				},
+				["rtb"] = {
+				},
+				["critDamage"] = 67189,
+				["name"] = "Airdh",
+				["critDamageSpells"] = {
+					["Chaos Strike"] = {
+						["totalHits"] = 3,
+						["min"] = 19488,
+						["max"] = 22546,
+						["id"] = 222031,
+						["critDamage"] = 42034,
+						["totalCrits"] = 2,
+						["damage"] = 52745,
+					},
+					["Demon's Bite"] = {
+						["totalHits"] = 2,
+						["min"] = 12448,
+						["max"] = 12707,
+						["id"] = 162243,
+						["critDamage"] = 25155,
+						["totalCrits"] = 2,
+						["damage"] = 25155,
+					},
+					["Attack"] = {
+						["totalHits"] = 6,
+						["id"] = 6603,
+						["critDamage"] = 0,
+						["totalCrits"] = 0,
+						["damage"] = 9564,
+					},
+				},
+				["totalHitHeals"] = 0,
+				["sam_total_dmg"] = 4225,
+				["dispells"] = 0,
+				["overloadDamaged"] = {
+				},
+				["nonOverloadDamage"] = 0,
+				["totalCrits"] = 4,
+				["totalCritHeals"] = 0,
+				["overloadDamageSpells"] = {
+				},
+				["critHealing"] = 0,
+				["power"] = {
+					[17] = {
+						["amount"] = 108,
+						["spells"] = {
+							[162243] = 88,
+							[193840] = 20,
+						},
+					},
+				},
+				["ccbreaks"] = 0,
+				["time"] = 6,
+				["overloadDamage"] = 0,
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["critHealed"] = {
+				},
+				["damage"] = 87464,
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["totalRTBCasts"] = 0,
+				["deathlog"] = {
+					{
+						["ts"] = 1471847848.804,
+						["amount"] = -4226,
+						["hp"] = 235138,
+						["spellid"] = 88163,
+						["srcname"] = "Wrath Warrior",
+					}, -- [1]
+					["pos"] = 2,
+				},
+				["id"] = "Player-707-042C1DC0",
+				["count"] = 0,
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+					["Wrath Warrior: Attack"] = {
+						["crushing"] = 0,
+						["id"] = 6603,
+						["count"] = 1,
+						["glancing"] = 0,
+						["buffs"] = {
+							[0] = {
+								["id"] = 0,
+								["name"] = "0 Buffs",
+								["amount"] = 1,
+							},
+						},
+						["critical"] = 0,
+						["blocked"] = 0,
+						["absorbed"] = 0,
+						["resisted"] = 0,
+						["name"] = "Wrath Warrior: Attack",
+						["damage"] = 0,
+					},
+					["Attack"] = {
+						["count"] = 1,
+						["crushing"] = 0,
+						["id"] = 6603,
+						["buffs"] = {
+							[0] = {
+								["id"] = 0,
+								["name"] = "0 Buffs",
+								["amount"] = 1,
+							},
+						},
+						["min"] = 4226,
+						["critical"] = 0,
+						["glancing"] = 0,
+						["absorbed"] = 0,
+						["name"] = "Attack",
+						["blocked"] = 0,
+						["totalhits"] = 1,
+						["resisted"] = 0,
+						["max"] = 4226,
+						["damage"] = 4226,
+					},
+				},
+				["totalHits"] = 11,
+				["damagespells"] = {
+					["Chaos Strike"] = {
+						["min"] = 10711,
+						["critical"] = 2,
+						["hit"] = 1,
+						["totalhits"] = 3,
+						["id"] = 222031,
+						["max"] = 22546,
+						["damage"] = 52745,
+					},
+					["Demon's Bite"] = {
+						["min"] = 12448,
+						["critical"] = 2,
+						["totalhits"] = 2,
+						["id"] = 162243,
+						["max"] = 12707,
+						["damage"] = 25155,
+					},
+					["Attack"] = {
+						["min"] = 1079,
+						["hit"] = 6,
+						["totalhits"] = 6,
+						["id"] = 6603,
+						["max"] = 2167,
+						["damage"] = 9564,
+					},
+				},
+				["nonCritDamage"] = 87464,
+				["class"] = "DEMONHUNTER",
+				["maxhp"] = 242520,
+				["nonCritHealing"] = 0,
+				["sam_total_events"] = 2,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["effectiveHealing"] = 0,
+		["damagetaken"] = 4226,
+		["mobtaken"] = 87464,
+		["mobhdone"] = 11205,
+		["healing"] = 0,
+		["healingRequired"] = 0,
+		["critDamage"] = 67189,
+		["mobs"] = {
+			["亚伯之刃"] = {
+				["players"] = {
+				},
+				["hdone"] = 11205,
+				["htakenspell"] = {
+					["Consume Soul"] = {
+						["min"] = 11205,
+						["crits"] = 0,
+						["max"] = 11205,
+						["healing"] = 11205,
+						["overhealing"] = 49425,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 11205,
+				["hdonespell"] = {
+					["Consume Soul"] = {
+						["min"] = 11205,
+						["crits"] = 0,
+						["max"] = 11205,
+						["healing"] = 11205,
+						["overhealing"] = 49425,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Mo'arg Brute"] = {
+				["players"] = {
+					["Airdh"] = {
+						["taken"] = 87464,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "DEMONHUNTER",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 87464,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["starttime"] = 1471847845,
+		["nonCritDamage"] = 0,
+		["deaths"] = 0,
+		["name"] = "Total",
+		["nonCritHealing"] = 0,
+		["last_action"] = 1471847845,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["interrupts"] = 0,
+			["spellName"] = {
+			},
+			["effectiveHealing"] = 0,
+			["damagetaken"] = 0,
+			["healing"] = 0,
+			["healingRequired"] = 0,
+			["critDamage"] = 67189,
+			["name"] = "Mo'arg Brute",
+			["mobhdone"] = 11205,
+			["last_action"] = 1471847862,
+			["mobdone"] = 0,
+			["nonOverloadDamage"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["overhealing"] = 0,
+			["overloadDamage"] = 0,
+			["damage"] = 87464,
+			["starttime"] = 1471847862,
+			["deaths"] = 0,
+			["mobs"] = {
+				["亚伯之刃"] = {
+					["players"] = {
+					},
+					["hdone"] = 11205,
+					["htakenspell"] = {
+						["Consume Soul"] = {
+							["min"] = 11205,
+							["crits"] = 0,
+							["max"] = 11205,
+							["healing"] = 11205,
+							["overhealing"] = 49425,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 11205,
+					["hdonespell"] = {
+						["Consume Soul"] = {
+							["min"] = 11205,
+							["crits"] = 0,
+							["max"] = 11205,
+							["healing"] = 11205,
+							["overhealing"] = 49425,
+							["hits"] = 1,
+						},
+					},
+				},
+				["Mo'arg Brute"] = {
+					["players"] = {
+						["Airdh"] = {
+							["taken"] = 87464,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "DEMONHUNTER",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 87464,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 87464,
+			["endtime"] = 1471847868,
+			["time"] = 6,
+			["totalRTBCasts"] = 0,
+			["power"] = {
+				[17] = 67,
+			},
+			["critHealing"] = 0,
+			["nonCritDamage"] = 0,
+			["mobname"] = "Mo'arg Brute",
+			["players"] = {
+				{
+					["last"] = 1471847867,
+					["totalOverloads"] = 0,
+					["healingabsorbed"] = 0,
+					["sam_breakdown"] = {
+						["Dodge"] = 1,
+					},
+					["damaged"] = {
+						["Mo'arg Brute"] = 87464,
+					},
+					["auras"] = {
+					},
+					["role"] = "NONE",
+					["interrupts"] = 0,
+					["totalHealing"] = 0,
+					["critHealingSpells"] = {
+					},
+					["effectiveHealing"] = 0,
+					["damagetaken"] = 0,
+					["critDamaged"] = {
+						["Mo'arg Brute"] = 67189,
+					},
+					["first"] = 1471847863,
+					["rtb"] = {
+					},
+					["critDamage"] = 67189,
+					["name"] = "Airdh",
+					["critDamageSpells"] = {
+						["Chaos Strike"] = {
+							["totalHits"] = 3,
+							["min"] = 19488,
+							["max"] = 22546,
+							["id"] = 222031,
+							["critDamage"] = 42034,
+							["totalCrits"] = 2,
+							["damage"] = 52745,
+						},
+						["Demon's Bite"] = {
+							["totalHits"] = 2,
+							["min"] = 12448,
+							["max"] = 12707,
+							["id"] = 162243,
+							["critDamage"] = 25155,
+							["totalCrits"] = 2,
+							["damage"] = 25155,
+						},
+						["Attack"] = {
+							["totalHits"] = 6,
+							["id"] = 6603,
+							["critDamage"] = 0,
+							["totalCrits"] = 0,
+							["damage"] = 9564,
+						},
+					},
+					["totalHitHeals"] = 0,
+					["sam_total_dmg"] = 0,
+					["healed"] = {
+					},
+					["nonOverloadDamage"] = 0,
+					["totalCrits"] = 4,
+					["overloadDamaged"] = {
+					},
+					["power"] = {
+						[17] = {
+							["amount"] = 67,
+							["spells"] = {
+								[162243] = 47,
+								[193840] = 20,
+							},
+						},
+					},
+					["critHealing"] = 0,
+					["overloadDamageSpells"] = {
+					},
+					["ccbreaks"] = 0,
+					["time"] = 4,
+					["overloadDamage"] = 0,
+					["totalCritHeals"] = 0,
+					["healingspells"] = {
+					},
+					["critHealed"] = {
+					},
+					["damage"] = 87464,
+					["dispells"] = 0,
+					["healing"] = 0,
+					["totalRTBCasts"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-042C1DC0",
+					["count"] = 0,
+					["overhealing"] = 0,
+					["damagetakenspells"] = {
+						["Attack"] = {
+							["crushing"] = 0,
+							["id"] = 6603,
+							["count"] = 1,
+							["glancing"] = 0,
+							["buffs"] = {
+								[0] = {
+									["id"] = 0,
+									["name"] = "0 Buffs",
+									["amount"] = 1,
+								},
+							},
+							["critical"] = 0,
+							["blocked"] = 0,
+							["absorbed"] = 0,
+							["resisted"] = 0,
+							["name"] = "Attack",
+							["damage"] = 0,
+						},
+					},
+					["totalHits"] = 11,
+					["damagespells"] = {
+						["Chaos Strike"] = {
+							["min"] = 10711,
+							["critical"] = 2,
+							["hit"] = 1,
+							["totalhits"] = 3,
+							["id"] = 222031,
+							["max"] = 22546,
+							["damage"] = 52745,
+						},
+						["Demon's Bite"] = {
+							["min"] = 12448,
+							["critical"] = 2,
+							["totalhits"] = 2,
+							["id"] = 162243,
+							["max"] = 12707,
+							["damage"] = 25155,
+						},
+						["Attack"] = {
+							["min"] = 1079,
+							["hit"] = 6,
+							["totalhits"] = 6,
+							["id"] = 6603,
+							["max"] = 2167,
+							["damage"] = 9564,
+						},
+					},
+					["nonCritDamage"] = 87464,
+					["class"] = "DEMONHUNTER",
+					["maxhp"] = 242520,
+					["nonCritHealing"] = 0,
+					["sam_total_events"] = 1,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["nonCritHealing"] = 0,
+			["shielding"] = 0,
+			["multistrikes"] = 0,
+		}, -- [1]
+	},
+}

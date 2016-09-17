@@ -1,0 +1,752 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 28,
+		["interrupts"] = 0,
+		["damage"] = 153125,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PRIEST",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Shadow Word: Pain"] = {
+						["name"] = "Shadow Word: Pain",
+						["active"] = 1,
+						["id"] = 589,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 7,
+					},
+					["Vampiric Touch"] = {
+						["name"] = "Vampiric Touch",
+						["active"] = 0,
+						["id"] = 34914,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 15,
+					},
+					["Surge of Dominance"] = {
+						["name"] = "Surge of Dominance",
+						["active"] = 0,
+						["id"] = 182057,
+						["auratype"] = "BUFF",
+						["uptime"] = 17,
+					},
+					["Fade"] = {
+						["name"] = "Fade",
+						["active"] = 0,
+						["id"] = 586,
+						["auratype"] = "BUFF",
+						["uptime"] = 10,
+					},
+				},
+				["role"] = "NONE",
+				["time"] = 25,
+				["interrupts"] = 0,
+				["power"] = {
+					[13] = {
+						["amount"] = 15,
+						["spells"] = {
+							[8092] = 12,
+							[589] = 3,
+						},
+					},
+				},
+				["damage"] = 153125,
+				["damagespells"] = {
+					["Mind Blast"] = {
+						["min"] = 53987,
+						["critical"] = 1,
+						["totalhits"] = 1,
+						["id"] = 8092,
+						["max"] = 53987,
+						["damage"] = 53987,
+					},
+					["Vampiric Touch"] = {
+						["min"] = 7830,
+						["hit"] = 6,
+						["totalhits"] = 6,
+						["id"] = 34914,
+						["max"] = 12726,
+						["damage"] = 63522,
+					},
+					["Shadowy Apparition"] = {
+						["min"] = 2699,
+						["hit"] = 1,
+						["totalhits"] = 1,
+						["id"] = 148859,
+						["max"] = 2699,
+						["damage"] = 2699,
+					},
+					["Shadow Word: Pain"] = {
+						["min"] = 6583,
+						["critical"] = 1,
+						["hit"] = 3,
+						["totalhits"] = 4,
+						["id"] = 589,
+						["max"] = 13167,
+						["damage"] = 32917,
+					},
+				},
+				["maxhp"] = 364260,
+				["damagetaken"] = 0,
+				["deathlog"] = {
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469253371.587,
+						["spellid"] = 34914,
+						["srcname"] = "Airiest",
+					}, -- [1]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469253374.329,
+						["spellid"] = 34914,
+						["srcname"] = "Airiest",
+					}, -- [2]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469253377.027,
+						["spellid"] = 34914,
+						["srcname"] = "Airiest",
+					}, -- [3]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469253379.775,
+						["spellid"] = 34914,
+						["srcname"] = "Airiest",
+					}, -- [4]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469253385.187,
+						["spellid"] = 34914,
+						["srcname"] = "Airiest",
+					}, -- [5]
+					{
+						["absorb"] = 0,
+						["amount"] = 0,
+						["hp"] = 364260,
+						["ts"] = 1469253386.927,
+						["spellid"] = 34914,
+						["srcname"] = "Airiest",
+					}, -- [6]
+					["pos"] = 7,
+				},
+				["id"] = "Player-707-04005DFD",
+				["overhealing"] = 31760,
+				["damagetakenspells"] = {
+				},
+				["healingspells"] = {
+					["Vampiric Touch"] = {
+						["shielding"] = 0,
+						["id"] = 34914,
+						["healing"] = 0,
+						["min"] = 0,
+						["multistrike"] = 0,
+						["name"] = "Vampiric Touch",
+						["max"] = 0,
+						["critical"] = 0,
+						["absorbed"] = 0,
+						["overhealing"] = 31760,
+						["hits"] = 6,
+					},
+				},
+				["shielding"] = 0,
+				["name"] = "Airiest",
+				["healing"] = 0,
+				["healed"] = {
+					["Player-707-04005DFD"] = {
+						["role"] = "NONE",
+						["name"] = "Airiest",
+						["amount"] = 0,
+						["class"] = "PRIEST",
+						["shielding"] = 0,
+					},
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["咏春叶問"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Celestial Fortune"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 35986,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Celestial Fortune"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 35986,
+						["hits"] = 2,
+					},
+				},
+			},
+			["长途奔袭"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 51718,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 51718,
+						["hits"] = 2,
+					},
+				},
+			},
+			["紫夜星空"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Vampiric Touch"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 53426,
+						["hits"] = 9,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Vampiric Touch"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 53426,
+						["hits"] = 9,
+					},
+				},
+			},
+			["Dungeoneer's Training Dummy"] = {
+				["players"] = {
+					["Airiest"] = {
+						["taken"] = 153125,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "PRIEST",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 153125,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+		},
+		["mobtaken"] = 153125,
+		["healing"] = 0,
+		["power"] = {
+			[13] = 15,
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 31760,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1469253369,
+		["damagetaken"] = 0,
+		["mobhdone"] = 0,
+		["last_action"] = 1469253369,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 15,
+			["interrupts"] = 0,
+			["endtime"] = 1469253400,
+			["damage"] = 110159,
+			["players"] = {
+				{
+					["last"] = 1469253400,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Dungeoneer's Training Dummy"] = 110159,
+					},
+					["auras"] = {
+						["Shadow Word: Pain"] = {
+							["name"] = "Shadow Word: Pain",
+							["active"] = 1,
+							["id"] = 589,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 7,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 14,
+					["interrupts"] = 0,
+					["damage"] = 110159,
+					["damagespells"] = {
+						["Mind Blast"] = {
+							["min"] = 53987,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 8092,
+							["max"] = 53987,
+							["damage"] = 53987,
+						},
+						["Vampiric Touch"] = {
+							["min"] = 7830,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 34914,
+							["max"] = 12726,
+							["damage"] = 20556,
+						},
+						["Shadowy Apparition"] = {
+							["min"] = 2699,
+							["hit"] = 1,
+							["totalhits"] = 1,
+							["id"] = 148859,
+							["max"] = 2699,
+							["damage"] = 2699,
+						},
+						["Shadow Word: Pain"] = {
+							["min"] = 6583,
+							["critical"] = 1,
+							["hit"] = 3,
+							["totalhits"] = 4,
+							["id"] = 589,
+							["max"] = 13167,
+							["damage"] = 32917,
+						},
+					},
+					["power"] = {
+						[13] = {
+							["amount"] = 15,
+							["spells"] = {
+								[8092] = 12,
+								[589] = 3,
+							},
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-04005DFD",
+					["first"] = 1469253386,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 10278,
+					["healingspells"] = {
+						["Vampiric Touch"] = {
+							["shielding"] = 0,
+							["id"] = 34914,
+							["healing"] = 0,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Vampiric Touch",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 10278,
+							["hits"] = 2,
+						},
+					},
+					["name"] = "Airiest",
+					["healing"] = 0,
+					["healed"] = {
+						["Player-707-04005DFD"] = {
+							["role"] = "NONE",
+							["name"] = "Airiest",
+							["amount"] = 0,
+							["class"] = "PRIEST",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["咏春叶問"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Celestial Fortune"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 17993,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Celestial Fortune"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 17993,
+							["hits"] = 1,
+						},
+					},
+				},
+				["长途奔袭"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 25859,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 25859,
+							["hits"] = 1,
+						},
+					},
+				},
+				["紫夜星空"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Vampiric Touch"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 43712,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Vampiric Touch"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 43712,
+							["hits"] = 7,
+						},
+					},
+				},
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airiest"] = {
+							["taken"] = 110159,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 110159,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 110159,
+			["starttime"] = 1469253385,
+			["healing"] = 0,
+			["power"] = {
+				[13] = 15,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 10278,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy (2)",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1469253385,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 13,
+			["interrupts"] = 0,
+			["endtime"] = 1469253382,
+			["damage"] = 42966,
+			["players"] = {
+				{
+					["last"] = 1469253380,
+					["healingabsorbed"] = 0,
+					["class"] = "PRIEST",
+					["damaged"] = {
+						["Dungeoneer's Training Dummy"] = 42966,
+					},
+					["auras"] = {
+						["Vampiric Touch"] = {
+							["name"] = "Vampiric Touch",
+							["active"] = 1,
+							["id"] = 34914,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 13,
+						},
+						["Surge of Dominance"] = {
+							["name"] = "Surge of Dominance",
+							["active"] = 1,
+							["id"] = 182057,
+							["auratype"] = "BUFF",
+							["uptime"] = 2,
+						},
+						["Fade"] = {
+							["name"] = "Fade",
+							["active"] = 0,
+							["id"] = 586,
+							["auratype"] = "BUFF",
+							["uptime"] = 10,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 11,
+					["interrupts"] = 0,
+					["damage"] = 42966,
+					["damagespells"] = {
+						["Vampiric Touch"] = {
+							["min"] = 10741,
+							["hit"] = 4,
+							["totalhits"] = 4,
+							["id"] = 34914,
+							["max"] = 10742,
+							["damage"] = 42966,
+						},
+					},
+					["power"] = {
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-04005DFD",
+					["first"] = 1469253369,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 21482,
+					["healingspells"] = {
+						["Vampiric Touch"] = {
+							["shielding"] = 0,
+							["id"] = 34914,
+							["healing"] = 0,
+							["min"] = 0,
+							["multistrike"] = 0,
+							["name"] = "Vampiric Touch",
+							["max"] = 0,
+							["critical"] = 0,
+							["absorbed"] = 0,
+							["overhealing"] = 21482,
+							["hits"] = 4,
+						},
+					},
+					["name"] = "Airiest",
+					["healing"] = 0,
+					["healed"] = {
+						["Player-707-04005DFD"] = {
+							["role"] = "NONE",
+							["name"] = "Airiest",
+							["amount"] = 0,
+							["class"] = "PRIEST",
+							["shielding"] = 0,
+						},
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["咏春叶問"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Celestial Fortune"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 17993,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Celestial Fortune"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 17993,
+							["hits"] = 1,
+						},
+					},
+				},
+				["长途奔袭"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 25859,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 25859,
+							["hits"] = 1,
+						},
+					},
+				},
+				["紫夜星空"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Vampiric Touch"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 9714,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Vampiric Touch"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 9714,
+							["hits"] = 2,
+						},
+					},
+				},
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airiest"] = {
+							["taken"] = 42966,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "PRIEST",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 42966,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+			},
+			["mobtaken"] = 42966,
+			["starttime"] = 1469253369,
+			["healing"] = 0,
+			["power"] = {
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 21482,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 0,
+			["last_action"] = 1469253369,
+			["mobdone"] = 0,
+		}, -- [2]
+	},
+}

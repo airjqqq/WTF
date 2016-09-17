@@ -1,0 +1,22 @@
+
+SkadaDB = {
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Zerage - 白银之手"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["windows"] = {
+				{
+					["y"] = 22.9802894592285,
+					["mode"] = "伤害",
+					["point"] = "BOTTOMRIGHT",
+					["x"] = -17.201904296875,
+				}, -- [1]
+			},
+		},
+	},
+}

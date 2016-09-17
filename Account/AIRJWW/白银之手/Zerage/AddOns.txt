@@ -1,0 +1,3 @@
+AirjMacros: disabled
+AirjHack: enabled
+TrufiGCD: disabled

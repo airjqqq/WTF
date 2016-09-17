@@ -1,0 +1,1477 @@
+
+SkadaPerCharDB = {
+	["total"] = {
+		["healingabsorbed"] = 0,
+		["dispells"] = 0,
+		["ccbreaks"] = 0,
+		["time"] = 95,
+		["interrupts"] = 0,
+		["damage"] = 1618597,
+		["players"] = {
+			{
+				["healingabsorbed"] = 0,
+				["class"] = "PALADIN",
+				["damaged"] = {
+				},
+				["auras"] = {
+					["Divine Purpose"] = {
+						["name"] = "Divine Purpose",
+						["active"] = 0,
+						["id"] = 223819,
+						["auratype"] = "BUFF",
+						["uptime"] = 1,
+					},
+					["Vindicator's Fury"] = {
+						["name"] = "Vindicator's Fury",
+						["active"] = 0,
+						["id"] = 165903,
+						["auratype"] = "BUFF",
+						["uptime"] = 25,
+					},
+					["Judgment"] = {
+						["name"] = "Judgment",
+						["active"] = 2,
+						["id"] = 197277,
+						["auratype"] = "DEBUFF",
+						["uptime"] = 55,
+					},
+					["Zeal"] = {
+						["name"] = "Zeal",
+						["active"] = 2,
+						["id"] = 217020,
+						["auratype"] = "BUFF",
+						["uptime"] = 92,
+					},
+					["Surge of Victory"] = {
+						["name"] = "Surge of Victory",
+						["active"] = 1,
+						["id"] = 182062,
+						["auratype"] = "BUFF",
+						["uptime"] = 95,
+					},
+				},
+				["role"] = "NONE",
+				["time"] = 80,
+				["interrupts"] = 0,
+				["power"] = {
+					[9] = {
+						["amount"] = 22,
+						["spells"] = {
+							[217020] = 22,
+						},
+					},
+				},
+				["damage"] = 1618597,
+				["damagespells"] = {
+					["Attack"] = {
+						["min"] = 5745,
+						["critical"] = 3,
+						["hit"] = 22,
+						["totalhits"] = 25,
+						["id"] = 6603,
+						["max"] = 19428,
+						["damage"] = 194641,
+					},
+					["Judgment"] = {
+						["min"] = 21072,
+						["critical"] = 1,
+						["hit"] = 13,
+						["totalhits"] = 14,
+						["id"] = 20271,
+						["max"] = 52681,
+						["damage"] = 402671,
+					},
+					["Templar's Verdict"] = {
+						["min"] = 53755,
+						["hit"] = 7,
+						["totalhits"] = 7,
+						["id"] = 224266,
+						["max"] = 88911,
+						["damage"] = 456926,
+					},
+					["Zeal"] = {
+						["min"] = 14207,
+						["critical"] = 5,
+						["hit"] = 17,
+						["totalhits"] = 22,
+						["id"] = 217020,
+						["max"] = 43137,
+						["damage"] = 498921,
+					},
+					["Blade of Justice"] = {
+						["min"] = 65438,
+						["critical"] = 1,
+						["totalhits"] = 1,
+						["id"] = 184575,
+						["max"] = 65438,
+						["damage"] = 65438,
+					},
+				},
+				["maxhp"] = 364260,
+				["damagetaken"] = 0,
+				["deathlog"] = {
+				},
+				["id"] = "Player-707-03FDBC5B",
+				["overhealing"] = 0,
+				["damagetakenspells"] = {
+				},
+				["healingspells"] = {
+				},
+				["shielding"] = 0,
+				["name"] = "Airaladin",
+				["healing"] = 0,
+				["healed"] = {
+				},
+				["dispells"] = 0,
+				["ccbreaks"] = 0,
+				["multistrikes"] = 0,
+			}, -- [1]
+		},
+		["deaths"] = 0,
+		["mobs"] = {
+			["丶花生"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Vampiric Touch"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 11517,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Vampiric Touch"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 11517,
+						["hits"] = 3,
+					},
+				},
+			},
+			["Dreadstalker"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1718,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 1718,
+						["hits"] = 2,
+					},
+				},
+			},
+			["龙神一统天下"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 24912,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 24912,
+						["hits"] = 1,
+					},
+				},
+			},
+			["丶鼠标"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 110207,
+						["hits"] = 6,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 110207,
+						["hits"] = 6,
+					},
+				},
+			},
+			["蓝色风衣"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 279,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["紫枫的信仰"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Inspiring Presence"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 279,
+						["hits"] = 1,
+					},
+				},
+			},
+			["玉翎"] = {
+				["players"] = {
+				},
+				["hdone"] = 59872,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10635,
+						["crits"] = 0,
+						["max"] = 10635,
+						["healing"] = 21270,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+					["Death Strike"] = {
+						["min"] = 28192,
+						["crits"] = 0,
+						["max"] = 28192,
+						["healing"] = 28192,
+						["overhealing"] = 9302,
+						["hits"] = 1,
+					},
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 22497,
+						["healing"] = 31680,
+						["overhealing"] = 35810,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 81142,
+				["hdonespell"] = {
+					["Death Strike"] = {
+						["min"] = 28192,
+						["crits"] = 0,
+						["max"] = 28192,
+						["healing"] = 28192,
+						["overhealing"] = 9302,
+						["hits"] = 1,
+					},
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 22497,
+						["healing"] = 31680,
+						["overhealing"] = 35810,
+						["hits"] = 3,
+					},
+				},
+			},
+			["鬆髒乛"] = {
+				["players"] = {
+				},
+				["hdone"] = 21669,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10834,
+						["crits"] = 0,
+						["max"] = 10835,
+						["healing"] = 21669,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+			["何处似潇湘"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 14441,
+						["hits"] = 5,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 14441,
+						["hits"] = 5,
+					},
+				},
+			},
+			["讲丽丽"] = {
+				["players"] = {
+				},
+				["hdone"] = 140251,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10929,
+						["crits"] = 0,
+						["max"] = 10930,
+						["healing"] = 98367,
+						["overhealing"] = 0,
+						["hits"] = 9,
+					},
+					["Rejuvenation"] = {
+						["min"] = 3817,
+						["crits"] = 1,
+						["max"] = 8784,
+						["healing"] = 41884,
+						["overhealing"] = 0,
+						["hits"] = 7,
+					},
+					["Nature's Guardian"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 21014,
+						["hits"] = 11,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 140251,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10929,
+						["crits"] = 0,
+						["max"] = 10930,
+						["healing"] = 98367,
+						["overhealing"] = 0,
+						["hits"] = 9,
+					},
+					["Rejuvenation"] = {
+						["min"] = 3817,
+						["crits"] = 1,
+						["max"] = 8784,
+						["healing"] = 41884,
+						["overhealing"] = 0,
+						["hits"] = 7,
+					},
+					["Nature's Guardian"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 21014,
+						["hits"] = 11,
+					},
+				},
+			},
+			["弄潮者邹尼玛"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2116,
+						["hits"] = 3,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2116,
+						["hits"] = 3,
+					},
+				},
+			},
+			["席总"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 20339,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 20339,
+						["hits"] = 1,
+					},
+				},
+			},
+			["Dungeoneer's Training Dummy"] = {
+				["players"] = {
+					["Airaladin"] = {
+						["taken"] = 1451337,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "PALADIN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 1451337,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["树袋熊丶爷爷-熊猫酒仙"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Death Strike"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 34846,
+						["hits"] = 1,
+					},
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 78280,
+						["hits"] = 4,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Death Strike"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 34846,
+						["hits"] = 1,
+					},
+					["Unholy Strength"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 78280,
+						["hits"] = 4,
+					},
+				},
+			},
+			["好彩一枚"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Healing Touch"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 55345,
+						["hits"] = 1,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Healing Touch"] = {
+						["min"] = 0,
+						["crits"] = 1,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 55345,
+						["hits"] = 1,
+					},
+				},
+			},
+			["月桦"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 110524,
+						["hits"] = 6,
+					},
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 53500,
+						["hits"] = 66,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Bloodthirst Heal"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 110524,
+						["hits"] = 6,
+					},
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 53500,
+						["hits"] = 66,
+					},
+				},
+			},
+			["夜色舞会"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10834,
+						["crits"] = 0,
+						["max"] = 10835,
+						["healing"] = 21669,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 21669,
+				["hdonespell"] = {
+				},
+			},
+			["巴拉豆"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 337108,
+						["hits"] = 71,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 337108,
+						["hits"] = 71,
+					},
+				},
+			},
+			["奥里克图恩"] = {
+				["players"] = {
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2974,
+						["hits"] = 4,
+					},
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Leech"] = {
+						["min"] = 0,
+						["crits"] = 0,
+						["max"] = 0,
+						["healing"] = 0,
+						["overhealing"] = 2974,
+						["hits"] = 4,
+					},
+				},
+			},
+			["Raider's Training Dummy"] = {
+				["players"] = {
+					["Airaladin"] = {
+						["taken"] = 167260,
+						["done"] = 0,
+						["role"] = "NONE",
+						["class"] = "PALADIN",
+					},
+				},
+				["hdone"] = 0,
+				["htakenspell"] = {
+				},
+				["taken"] = 167260,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+				},
+			},
+			["艾撸恩"] = {
+				["players"] = {
+				},
+				["hdone"] = 21270,
+				["htakenspell"] = {
+				},
+				["taken"] = 0,
+				["done"] = 0,
+				["htaken"] = 0,
+				["hdonespell"] = {
+					["Ysera's Gift"] = {
+						["min"] = 10635,
+						["crits"] = 0,
+						["max"] = 10635,
+						["healing"] = 21270,
+						["overhealing"] = 0,
+						["hits"] = 2,
+					},
+				},
+			},
+		},
+		["mobtaken"] = 1618597,
+		["healing"] = 0,
+		["power"] = {
+			[9] = 22,
+		},
+		["multistrikes"] = 0,
+		["overhealing"] = 0,
+		["shielding"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1469255111,
+		["damagetaken"] = 0,
+		["mobhdone"] = 243062,
+		["last_action"] = 1469255111,
+		["mobdone"] = 0,
+	},
+	["sets"] = {
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 81,
+			["interrupts"] = 0,
+			["endtime"] = 1469256450,
+			["damage"] = 1501456,
+			["players"] = {
+				{
+					["last"] = 1469256443,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Raider's Training Dummy"] = 167260,
+						["Dungeoneer's Training Dummy"] = 1334196,
+					},
+					["auras"] = {
+						["Divine Purpose"] = {
+							["name"] = "Divine Purpose",
+							["active"] = 0,
+							["id"] = 223819,
+							["auratype"] = "BUFF",
+							["uptime"] = 1,
+						},
+						["Vindicator's Fury"] = {
+							["name"] = "Vindicator's Fury",
+							["active"] = 0,
+							["id"] = 165903,
+							["auratype"] = "BUFF",
+							["uptime"] = 25,
+						},
+						["Judgment"] = {
+							["name"] = "Judgment",
+							["active"] = 2,
+							["id"] = 197277,
+							["auratype"] = "DEBUFF",
+							["uptime"] = 55,
+						},
+						["Surge of Victory"] = {
+							["name"] = "Surge of Victory",
+							["active"] = 0,
+							["id"] = 182062,
+							["auratype"] = "BUFF",
+							["uptime"] = 20,
+						},
+						["Zeal"] = {
+							["name"] = "Zeal",
+							["active"] = 1,
+							["id"] = 217020,
+							["auratype"] = "BUFF",
+							["uptime"] = 81,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 74,
+					["interrupts"] = 0,
+					["damage"] = 1501456,
+					["damagespells"] = {
+						["Judgment"] = {
+							["min"] = 21072,
+							["critical"] = 1,
+							["hit"] = 13,
+							["totalhits"] = 14,
+							["id"] = 20271,
+							["max"] = 52681,
+							["damage"] = 402671,
+						},
+						["Templar's Verdict"] = {
+							["min"] = 53755,
+							["hit"] = 7,
+							["totalhits"] = 7,
+							["id"] = 224266,
+							["max"] = 88911,
+							["damage"] = 456926,
+						},
+						["Attack"] = {
+							["min"] = 5745,
+							["critical"] = 3,
+							["hit"] = 20,
+							["totalhits"] = 23,
+							["id"] = 6603,
+							["max"] = 19428,
+							["damage"] = 180866,
+						},
+						["Zeal"] = {
+							["min"] = 14207,
+							["critical"] = 5,
+							["hit"] = 15,
+							["totalhits"] = 20,
+							["id"] = 217020,
+							["max"] = 43137,
+							["damage"] = 460993,
+						},
+					},
+					["power"] = {
+						[9] = {
+							["amount"] = 20,
+							["spells"] = {
+								[217020] = 20,
+							},
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDBC5B",
+					["first"] = 1469256369,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airaladin",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airaladin"] = {
+							["taken"] = 1334196,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 1334196,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["丶鼠标"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 110207,
+							["hits"] = 6,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 110207,
+							["hits"] = 6,
+						},
+					},
+				},
+				["蓝色风衣"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 279,
+							["hits"] = 1,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["紫枫的信仰"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Inspiring Presence"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 279,
+							["hits"] = 1,
+						},
+					},
+				},
+				["玉翎"] = {
+					["players"] = {
+					},
+					["hdone"] = 59872,
+					["htakenspell"] = {
+						["Death Strike"] = {
+							["min"] = 28192,
+							["crits"] = 0,
+							["max"] = 28192,
+							["healing"] = 28192,
+							["overhealing"] = 9302,
+							["hits"] = 1,
+						},
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 22497,
+							["healing"] = 31680,
+							["overhealing"] = 35810,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 59872,
+					["hdonespell"] = {
+						["Death Strike"] = {
+							["min"] = 28192,
+							["crits"] = 0,
+							["max"] = 28192,
+							["healing"] = 28192,
+							["overhealing"] = 9302,
+							["hits"] = 1,
+						},
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 22497,
+							["healing"] = 31680,
+							["overhealing"] = 35810,
+							["hits"] = 3,
+						},
+					},
+				},
+				["讲丽丽"] = {
+					["players"] = {
+					},
+					["hdone"] = 140251,
+					["htakenspell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 10929,
+							["crits"] = 0,
+							["max"] = 10930,
+							["healing"] = 98367,
+							["overhealing"] = 0,
+							["hits"] = 9,
+						},
+						["Rejuvenation"] = {
+							["min"] = 3817,
+							["crits"] = 1,
+							["max"] = 8784,
+							["healing"] = 41884,
+							["overhealing"] = 0,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 140251,
+					["hdonespell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 10929,
+							["crits"] = 0,
+							["max"] = 10930,
+							["healing"] = 98367,
+							["overhealing"] = 0,
+							["hits"] = 9,
+						},
+						["Rejuvenation"] = {
+							["min"] = 3817,
+							["crits"] = 1,
+							["max"] = 8784,
+							["healing"] = 41884,
+							["overhealing"] = 0,
+							["hits"] = 7,
+						},
+					},
+				},
+				["巴拉豆"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 302950,
+							["hits"] = 66,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 302950,
+							["hits"] = 66,
+						},
+					},
+				},
+				["月桦"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 110524,
+							["hits"] = 6,
+						},
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 53500,
+							["hits"] = 66,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Bloodthirst Heal"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 110524,
+							["hits"] = 6,
+						},
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 53500,
+							["hits"] = 66,
+						},
+					},
+				},
+				["Raider's Training Dummy"] = {
+					["players"] = {
+						["Airaladin"] = {
+							["taken"] = 167260,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 167260,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["树袋熊丶爷爷-熊猫酒仙"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Death Strike"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 34846,
+							["hits"] = 1,
+						},
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 78280,
+							["hits"] = 4,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Death Strike"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 34846,
+							["hits"] = 1,
+						},
+						["Unholy Strength"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 78280,
+							["hits"] = 4,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 1501456,
+			["starttime"] = 1469256369,
+			["healing"] = 0,
+			["power"] = {
+				[9] = 20,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy (2)",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 200123,
+			["last_action"] = 1469256369,
+			["mobdone"] = 0,
+		}, -- [1]
+		{
+			["healingabsorbed"] = 0,
+			["dispells"] = 0,
+			["ccbreaks"] = 0,
+			["time"] = 14,
+			["interrupts"] = 0,
+			["endtime"] = 1469255794,
+			["damage"] = 117141,
+			["players"] = {
+				{
+					["last"] = 1469255786,
+					["healingabsorbed"] = 0,
+					["class"] = "PALADIN",
+					["damaged"] = {
+						["Dungeoneer's Training Dummy"] = 117141,
+					},
+					["auras"] = {
+						["Zeal"] = {
+							["name"] = "Zeal",
+							["active"] = 1,
+							["id"] = 217020,
+							["auratype"] = "BUFF",
+							["uptime"] = 11,
+						},
+						["Surge of Victory"] = {
+							["name"] = "Surge of Victory",
+							["active"] = 1,
+							["id"] = 182062,
+							["auratype"] = "BUFF",
+							["uptime"] = 14,
+						},
+					},
+					["role"] = "NONE",
+					["time"] = 6,
+					["interrupts"] = 0,
+					["damage"] = 117141,
+					["damagespells"] = {
+						["Attack"] = {
+							["min"] = 6777,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 6603,
+							["max"] = 6998,
+							["damage"] = 13775,
+						},
+						["Zeal"] = {
+							["min"] = 18644,
+							["hit"] = 2,
+							["totalhits"] = 2,
+							["id"] = 217020,
+							["max"] = 19284,
+							["damage"] = 37928,
+						},
+						["Blade of Justice"] = {
+							["min"] = 65438,
+							["critical"] = 1,
+							["totalhits"] = 1,
+							["id"] = 184575,
+							["max"] = 65438,
+							["damage"] = 65438,
+						},
+					},
+					["power"] = {
+						[9] = {
+							["amount"] = 2,
+							["spells"] = {
+								[217020] = 2,
+							},
+						},
+					},
+					["damagetaken"] = 0,
+					["shielding"] = 0,
+					["id"] = "Player-707-03FDBC5B",
+					["first"] = 1469255780,
+					["ccbreaks"] = 0,
+					["damagetakenspells"] = {
+					},
+					["overhealing"] = 0,
+					["healingspells"] = {
+					},
+					["name"] = "Airaladin",
+					["healing"] = 0,
+					["healed"] = {
+					},
+					["maxhp"] = 364260,
+					["dispells"] = 0,
+					["multistrikes"] = 0,
+				}, -- [1]
+			},
+			["deaths"] = 0,
+			["mobs"] = {
+				["玉翎"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 10635,
+							["crits"] = 0,
+							["max"] = 10635,
+							["healing"] = 21270,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 21270,
+					["hdonespell"] = {
+					},
+				},
+				["鬆髒乛"] = {
+					["players"] = {
+					},
+					["hdone"] = 21669,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 10834,
+							["crits"] = 0,
+							["max"] = 10835,
+							["healing"] = 21669,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+				},
+				["Dungeoneer's Training Dummy"] = {
+					["players"] = {
+						["Airaladin"] = {
+							["taken"] = 117141,
+							["done"] = 0,
+							["role"] = "NONE",
+							["class"] = "PALADIN",
+						},
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+					},
+					["taken"] = 117141,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+					},
+				},
+				["夜色舞会"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 10834,
+							["crits"] = 0,
+							["max"] = 10835,
+							["healing"] = 21669,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 21669,
+					["hdonespell"] = {
+					},
+				},
+				["讲丽丽"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Nature's Guardian"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 12245,
+							["hits"] = 7,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Nature's Guardian"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 12245,
+							["hits"] = 7,
+						},
+					},
+				},
+				["奥里克图恩"] = {
+					["players"] = {
+					},
+					["hdone"] = 0,
+					["htakenspell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1582,
+							["hits"] = 3,
+						},
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Leech"] = {
+							["min"] = 0,
+							["crits"] = 0,
+							["max"] = 0,
+							["healing"] = 0,
+							["overhealing"] = 1582,
+							["hits"] = 3,
+						},
+					},
+				},
+				["艾撸恩"] = {
+					["players"] = {
+					},
+					["hdone"] = 21270,
+					["htakenspell"] = {
+					},
+					["taken"] = 0,
+					["done"] = 0,
+					["htaken"] = 0,
+					["hdonespell"] = {
+						["Ysera's Gift"] = {
+							["min"] = 10635,
+							["crits"] = 0,
+							["max"] = 10635,
+							["healing"] = 21270,
+							["overhealing"] = 0,
+							["hits"] = 2,
+						},
+					},
+				},
+			},
+			["mobtaken"] = 117141,
+			["starttime"] = 1469255780,
+			["healing"] = 0,
+			["power"] = {
+				[9] = 2,
+			},
+			["multistrikes"] = 0,
+			["overhealing"] = 0,
+			["shielding"] = 0,
+			["name"] = "Dungeoneer's Training Dummy",
+			["mobname"] = "Dungeoneer's Training Dummy",
+			["damagetaken"] = 0,
+			["mobhdone"] = 42939,
+			["last_action"] = 1469255780,
+			["mobdone"] = 0,
+		}, -- [2]
+	},
+}
